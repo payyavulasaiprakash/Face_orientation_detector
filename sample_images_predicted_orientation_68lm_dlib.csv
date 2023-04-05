@@ -1,0 +1,11 @@
+image_path,predicted_orientation
+spceter2.jpeg,up
+hero.jpeg,up
+thor_left.jpeg,left
+hero_right.jpeg,couldn't detect faces in the images
+dom_left.jpeg,left
+thor_right.jpeg,right
+dom.jpeg,up
+thor.jpeg,up
+dom_right.jpeg,right
+hero_left.jpeg,couldn't detect faces in the images
